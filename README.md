@@ -25,6 +25,10 @@ FE 개발자가 되고 싶은 유리의 이력서
     - Tailwind.css
     - Java, SpringBoot
     - MySql, JPA
+- 역할
+    - 기획, CSS, DB설계, 풀스택 개발
+    - 게시글 목록 컴포넌트 : unsplash API 연동하여 게시글 조회/정렬
+    - 연관 게시글 조회, 좋아요/북마크 기능, 태그 검색, 좋아요/북마크 게시글 조회
 
 # To Do Job
 - 기간 : 2020.07 ~ 
